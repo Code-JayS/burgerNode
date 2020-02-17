@@ -1,7 +1,8 @@
 body {
   width: 99%;
   height: 900px;
-  background-color: #fc6;
+  background-color: rgba(238, 236, 144, 0.89);
+  font-family: 'Luckiest Guy', cursive;
 }
 
 #top-bar {
@@ -64,5 +65,5 @@ body {
 }
 
 h1 {
-  color: #f30;
+  color: rgba(64, 9, 167, 0.733);
 }
