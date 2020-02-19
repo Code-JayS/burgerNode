@@ -5,6 +5,12 @@ body {
   font-family: 'Luckiest Guy', cursive;
 }
 
+pre {
+  background-color: bisque;
+  font-family: 'Luckiest Guy', cursive;
+  border-style: groove;
+  border-radius: 1rem;
+}
 #top-bar {
   margin-top: 28px;
 }
